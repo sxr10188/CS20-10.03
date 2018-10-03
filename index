@@ -8,5 +8,6 @@
   <h1>About HTML</h1>
   <p> HTML consists of open tags, close tags, attributes and content.
   It is used to specify the content of  web pages.</p>
+  <p>Learn more  about HTML at w3schools <a herf="https://www.w3schools.com/"> HTML tutorial</a></p>
  </body>
 </html>
